@@ -181,4 +181,11 @@ merchant_analysis/
 
 ## Contact
 
-For questions or improvements, please contact the project maintainer or submit a pull request. 
+I'd love to hear from you! For questions, suggestions, or collaboration, please reach out or create a pull request:
+
+- **Name:** Milovan Minic
+- **Email:** [milovan.minic@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/milovan-minic](https://www.linkedin.com/in/milovan-minic)
+- **GitHub:** [https://github.com/milovan-minic](https://github.com/milovan-minic)
+
+Feel free to connect or open an issue/pull request if you have ideas to improve this project! 
