@@ -184,7 +184,7 @@ merchant_analysis/
 I'd love to hear from you! For questions, suggestions, or collaboration, please reach out or create a pull request:
 
 - **Name:** Milovan Minic
-- **Email:** [milovan.minic@gmail.com](milovan.minic@gmail.com?subject=Merchant Analysis github repository inquiry)
+- **Email:** [milovan.minic@gmail.com]("milovan.minic@gmail.com?subject=Merchant Analysis github repository inquiry")
 - **LinkedIn:** [https://www.linkedin.com/in/milovan-minic](https://www.linkedin.com/in/milovan-minic)
 - **GitHub:** [https://github.com/milovan-minic](https://github.com/milovan-minic)
 
