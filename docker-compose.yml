@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  pyspark-notebook:
+    build: .
+    container_name: pyspark-notebook
+    ports:
+      - "8888:8888"  # Jupyter Notebook
+      - "4040:4040"  # Spark UI
+    volumes:
+      - ./app:/home/jovyan/app  # Mount local app directory for code
+      - ./data:/home/jovyan/data # Mount data directory for access in notebook
+      - ./reports:/home/jovyan/reports # Mount reports directory for output
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    # Future: add more environment/config as needed
+
+# Future: add more services (e.g., worker, etc.) as needed 

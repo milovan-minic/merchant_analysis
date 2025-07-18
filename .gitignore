@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (ignore all except .gitkeep)
+data/in/*
+data/clean/*
+data/out/*
+!data/in/.gitkeep
+!data/clean/.gitkeep
+!data/out/.gitkeep
+
+# Reports (ignore all except .gitkeep)
+reports/*
+!reports/.gitkeep
+
+# Parquet/CSV partitions
+*.parquet/
+*.csv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# Docker
+*.pid
+
+# Misc
+*.log
+*.tmp 
